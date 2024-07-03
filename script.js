@@ -1,7 +1,7 @@
 // Class representing a video game with a title and genre
 class VideoGame {
   constructor(title, genre) {
-    // The constructor method is a special method for creating and initializing an object created within a class.
+    // This is a special method for creating and initializing an object created within a class.
     this.title = title; // This line sets the title property of the VideoGame object.
     this.genre = genre; // This line sets the genre property of the VideoGame object.
   }
